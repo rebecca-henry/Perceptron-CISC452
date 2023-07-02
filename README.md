@@ -1,2 +1,6 @@
 # Perceptron-CISC452
-A perceptron network
+A Perceptron NN
+
+Rebecca Henry
+
+September 2022 - CISC452 - Neural and Genetic Computing
